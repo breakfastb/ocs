@@ -67,7 +67,7 @@ tr:first-child {
   margin-top:-17px;
 }
 
-tr:hover {
+tr:hover, #current {
   box-shadow:3px 0 0 #33a1c9;
 }
 
