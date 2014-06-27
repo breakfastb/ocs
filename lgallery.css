@@ -1,0 +1,78 @@
+@font-face { 
+  font-family:'Open Sans';
+  src:url(fonts/OpenSans-Regular.ttf);
+}
+* {
+  font-family:'Open Sans',sans-serif;
+  font-size:12px;
+}
+.subtitle {
+  font-size:20px;
+  margin-bottom:15px;
+}
+.thumb {
+  width:100px;
+  height:100px;
+  border: 4px #fff solid;
+  box-shadow:0px 0px 5px #888888;
+  background-size:cover;
+  background-repeat:none;
+  display:inline-block;
+}
+.fullsize {
+  display:none;
+}
+#navbar {
+  position:fixed;
+  bottom:0;
+  text-align:center;
+  width:100%;
+  background-color:#998585;
+  height:25px;
+  left:0;
+  right:0;
+  padding-top:10px;
+  color:#eee;
+  opacity:0.8;
+}
+a {
+  color:#eee;
+  text-decoration:none;
+  outline:none;
+}
+#nao1 {
+  background-image:url(images/l/01/prof.jpg);
+}
+#nao2 {
+	background-image:url(images/l/01/1.jpg);
+}
+#nao3 {
+	background-image:url(images/l/01/2.jpg);
+}
+#nao4 {
+	background-image:url(images/l/01/3.jpg);
+}
+#nao5 {
+	background-image:url(images/l/01/4.jpg);
+}
+#momo1 {
+	background-image:url(images/l/02/prof.jpg);
+}
+#momo2 {
+	background-image:url(images/l/02/2.jpg);
+}
+#misc1 {
+	background-image:url(images/l/03/prof.jpg);
+}
+#misc2 {
+	background-image:url(images/l/03/1.jpg);
+}
+#misc3 {
+	background-image:url(images/l/03/2.jpg);
+}
+#misc4 {
+	background-image:url(images/l/03/3.jpg);
+}
+#misc5 {
+	background-image:url(images/l/04/1.jpg);
+}
