@@ -41,38 +41,38 @@ a {
   outline:none;
 }
 #nao1 {
-  background-image:url(images/l/01/prof.jpg);
+  background-image:url(../images/l/01/prof.jpg);
 }
 #nao2 {
-	background-image:url(images/l/01/1.jpg);
+	background-image:url(../images/l/01/1.jpg);
 }
 #nao3 {
-	background-image:url(images/l/01/2.jpg);
+	background-image:url(../images/l/01/2.jpg);
 }
 #nao4 {
-	background-image:url(images/l/01/3.jpg);
+	background-image:url(../images/l/01/3.jpg);
 }
 #nao5 {
-	background-image:url(images/l/01/4.jpg);
+	background-image:url(../images/l/01/4.jpg);
 }
 #momo1 {
-	background-image:url(images/l/02/prof.jpg);
+	background-image:url(../images/l/02/prof.jpg);
 }
 #momo2 {
-	background-image:url(images/l/02/2.jpg);
+	background-image:url(../images/l/02/2.jpg);
 }
 #misc1 {
-	background-image:url(images/l/03/prof.jpg);
+	background-image:url(../images/l/03/prof.jpg);
 }
 #misc2 {
-	background-image:url(images/l/03/1.jpg);
+	background-image:url(../images/l/03/1.jpg);
 }
 #misc3 {
-	background-image:url(images/l/03/2.jpg);
+	background-image:url(../images/l/03/2.jpg);
 }
 #misc4 {
-	background-image:url(images/l/03/3.jpg);
+	background-image:url(../images/l/03/3.jpg);
 }
 #misc5 {
-	background-image:url(images/l/04/1.jpg);
+	background-image:url(../images/l/04/1.jpg);
 }
