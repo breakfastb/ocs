@@ -233,20 +233,20 @@ body {
 }
 
 #libr1 {
-	background-image:url(images/l/01/prof.jpg);
+	background-image:url(../images/l/01/prof.jpg);
 	margin-left: 100px;
 	float:left;
 }
 
 #libr2 {
-	background-image:url(images/l/02/2.jpg);
+	background-image:url(../images/l/02/2.jpg);
 	margin-left: 100px;
 	float:left;
 	margin-top:15px;
 }
 
 #libr3 {
-	background-image:url(images/l/03/prof.jpg);
+	background-image:url(../images/l/03/prof.jpg);
 	margin-left: 100px;
 	float:left;
 	margin-top:15px;
